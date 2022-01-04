@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(245, 233, 243);
+    text-align: center;
+    margin: 0;
+}
+img {
+    width: 200px;
+    border: 1px solid rgb(245, 233, 243);
+    border-radius: 155px;
+}
+input {
+    background-color: chartreuse;
+}
+input:hover {
+    background-color: rgb(63, 20, 220);
+}
+.name{
+    /* font-family: 'Pushster', cursive; */
+    font-family: 'Vujahday Script', cursive;
+    color: rgb(19, 6, 138);
+}
+#intro {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    margin-bottom: 3px;
+}
+.experience {
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(235, 8, 95);
+    color: white;
+    
+}
+.work {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
+.education {
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(235, 8, 95);
+    color: white;
+    margin-top: 15px;
+    
+}
+.school {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
+h2 {
+    text-decoration: none;
+    font-style: default;
+}
+hr {
+    border: 2px solid red;
+    border-radius: 55px;
+    
+    width: 522px;
+    color: red;
+    margin-bottom: 35px;
+
+}
